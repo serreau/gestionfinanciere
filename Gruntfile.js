@@ -214,6 +214,7 @@ module.exports = function(grunt) {
 
 	TODO
 	----
+    karma tests
 	start a http server
 	launch chrome in a particular URL
 	download a mysql database
