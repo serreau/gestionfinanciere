@@ -6,6 +6,8 @@ platforms/**
 
 plugins/**
 
-source/**
+#source/**
 
-# ok
+scss/**
+
+!dev/**
