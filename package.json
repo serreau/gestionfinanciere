@@ -1,0 +1,12 @@
+{
+  "name": "gestionfinanciere",
+  "version": "0.0.0",
+  "description": "Gestion financière",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-watch": "^0.6.1",
+    "karma": "^0.12.14",
+    "grunt-karma": "^0.8.3",
+    "load-grunt-tasks": "^0.4.0"
+  }
+}
