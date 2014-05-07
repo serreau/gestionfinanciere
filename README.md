@@ -1,4 +1,0 @@
-gestionfinanciere
-=================
-
-Gestion financière
