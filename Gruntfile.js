@@ -234,7 +234,7 @@ module.exports = function(grunt) {
 	});
 
 	grunt.registerTask('default', ['watch']);
-    grunt.registerTask('dev', ['watch', 'sass', 'jshint', /*'csslint',*/ /*'concat',*/ 'autoprefixer', 'uglify', 'imagemin']);
+    grunt.registerTask('dev', [/*'watch',*/ 'sass', 'jshint', /*'csslint',*/ /*'concat',*/ 'autoprefixer', 'uglify', 'imagemin']);
     grunt.registerTask('build', ['sass', /*'concat', */'autoprefixer', 'uglify', 'imagemin', 'compress','ftp-deploy']);
     grunt.registerTask('clean', ['clean']);
 

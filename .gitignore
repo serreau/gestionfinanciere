@@ -5,7 +5,3 @@ node_modules/**
 platforms/**
 
 plugins/**
-
-www/**
-!www/lib/**
-!www/config.xml
