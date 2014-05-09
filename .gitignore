@@ -6,8 +6,6 @@ platforms/**
 
 plugins/**
 
-#source/**
-
-scss/**
-
-!dev/**
+www/**
+!www/lib/**
+!www/config.xml
