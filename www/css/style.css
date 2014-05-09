@@ -8761,6 +8761,27 @@ a.button {
   margin-bottom: 20px;
 }
 
-body {
-  color: red;
+#homecontainer .scroll {
+  height: 100%;
+}
+
+#homecontainer .row {
+  height: 50%;
+  padding: 0;
+}
+
+#colone {
+  background: #d1fb8b;
+}
+
+#coltwo {
+  background: #019159;
+}
+
+#colthree {
+  background: #488f2b;
+}
+
+#colfour {
+  background: #018f2a;
 }

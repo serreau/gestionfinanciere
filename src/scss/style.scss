@@ -21,11 +21,29 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 // Include all of Ionic
 @import "www/lib/ionic/scss/ionic";
 
+$greenone: #D1FB8B;
+$greentwo: #019159;
+$greenthree: #488F2B;
+$greenfour: #018F2A;
 
+#homecontainer .scroll {
+	height: 100%;
+}
 
-// div testscss
-$primary-colorr: red;
+#homecontainer .row {
+	height: 50%;
+	padding: 0;
+}
 
-body {
-  color: $primary-colorr;
+#colone {
+	background: $greenone;
+}
+#coltwo {
+	background: $greentwo;
+}
+#colthree {
+	background: $greenthree;
+}
+#colfour {
+	background: $greenfour;
 }
